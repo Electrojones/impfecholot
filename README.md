@@ -1,6 +1,19 @@
 # impfecholot
 A software to get SARS-Cov-2 vaccination appointments in Germany.
 
+#Anleitung
+1.Das Programm über den Downloadbutton herunterladen.
+2.Die ZIP Datei entpacken.
+3.Die Datei "Main" aus dem ZIP Verzeichnis ausführen.
+4.[hier](https://www.impfterminservice.de/impftermine) ein oder mehrere Impfzentren heraussuchen.
+5.Die Links in das Programm kopieren. Falls du mehrere Impfzentren herausgesucht hast musst du die Links mit Ausrufezeichen trennen.
+6.Das Programm starten.
+
+Das Programm spielt einen Ton ab wenn ein Impftermin verfügbar ist.
+Du kannst den Termin dann einfach ganz normal buchen.
+
+Falls du den Impftermin doch nicht willst oder ihn nicht bekommen hast kannst du das Progamm mit "Impftermin verwerfen" weiter laufen lassen.
+
 ---
 >This software uses the [chromedriver](https://chromedriver.chromium.org/). Chromedriver was made by google and released under the BSD License:
 >Copyright 2015 The Chromium Authors. All rights reserved.
