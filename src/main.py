@@ -157,7 +157,7 @@ def start():
         for _ in range(15):
             for detector in detectors:
                 state=detector.detect()
-                time.sleep(7)
+                time.sleep(9)
 
         end()
 
@@ -176,8 +176,8 @@ e.pack()
 bstart = Button(root, text="Terminsuche starten", command=start)
 bstart.pack()
 
-bstop = Button(root, text="Alarm stoppen", command=stop_alarm_meth)
-bstop.pack()
+#bstop = Button(root, text="Alarm stoppen", command=stop_alarm_meth)
+#bstop.pack()
 
 bdisc = Button(root, text="Impftermin verwerfen", command=discard)
 bdisc.pack()
