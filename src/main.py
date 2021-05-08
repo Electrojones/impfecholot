@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from tkinter import *
+import echolot
 
 
 def click():
@@ -29,5 +30,13 @@ b.pack()
 
 #w.config(text="neuer text")
 
-root.mainloop()
+#root.mainloop()
 
+root.update()
+root.update_idletasks()
+
+w.config(text="neuer text")
+
+while True:
+    root.update()
+    root.update_idletasks()
