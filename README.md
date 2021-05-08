@@ -1,7 +1,7 @@
 # impfecholot
 A software to get SARS-Cov-2 vaccination appointments in Germany.
 
-# Anleitung
+## Anleitung
 1. Das Programm über den Downloadbutton herunterladen.
 2. Die ZIP Datei entpacken.
 3. Die Datei "Main" aus dem ZIP Verzeichnis ausführen.
