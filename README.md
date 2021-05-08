@@ -2,12 +2,12 @@
 A software to get SARS-Cov-2 vaccination appointments in Germany.
 
 # Anleitung
-1.Das Programm über den Downloadbutton herunterladen.
-2.Die ZIP Datei entpacken.
-3.Die Datei "Main" aus dem ZIP Verzeichnis ausführen.
-4.[hier](https://www.impfterminservice.de/impftermine) ein oder mehrere Impfzentren heraussuchen.
-5.Die Links in das Programm kopieren. Falls du mehrere Impfzentren herausgesucht hast musst du die Links mit Ausrufezeichen trennen.
-6.Das Programm starten.
+1. Das Programm über den Downloadbutton herunterladen.
+2. Die ZIP Datei entpacken.
+3. Die Datei "Main" aus dem ZIP Verzeichnis ausführen.
+4. [Hier](https://www.impfterminservice.de/impftermine) ein oder mehrere Impfzentren heraussuchen.
+5. Die Links in das Programm kopieren. Falls du mehrere Impfzentren herausgesucht hast musst du die Links mit Ausrufezeichen trennen.
+6. Das Programm starten.
 
 Das Programm spielt einen Ton ab wenn ein Impftermin verfügbar ist.
 Du kannst den Termin dann einfach ganz normal buchen.
